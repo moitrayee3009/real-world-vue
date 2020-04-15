@@ -6,7 +6,7 @@
 export default {
 	data() {
 		return {
-			quote: 'I love you!',
+			key: value,
 		}
 	},
 }
